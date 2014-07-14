@@ -25,3 +25,15 @@ body {
       padding-top:70px;
       position: relative;
 }
+
+#container 
+{ 
+   position: relative 
+} 
+
+#navigation 
+{ 
+   position: absolute; 
+   left: 30px; 
+   top: 5px 
+} 
