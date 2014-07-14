@@ -1,18 +1,19 @@
 @import url("//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css");
 
 h1 { 
-      color: DarkGreen ;
+      color: LimeGreen ;
 }
 
 h2 {
-      color: ForestGreen ;
+      color: LawnGreen ;
 }
 
 h3 { 
-      color: Green ;
+      color: Lime ;
 }
 
 body {
+      background-color: Green;
       padding-top:70px;
       position: relative;
 }
