@@ -45,4 +45,5 @@ img {
 
 .navbar-default {
       background-color:Black;
+      border-color:$bgHighlight;
 }
