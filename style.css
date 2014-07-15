@@ -21,14 +21,14 @@ p {
 }
 
 body {
-      background-color: Green;
+      background-color: Black;
       padding-top:70px;
       position: relative;
 }
 
 #container 
 { 
-   background:SeaGreen;
+   background:Green;
    position: relative 
 } 
 
