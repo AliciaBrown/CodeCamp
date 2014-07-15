@@ -42,11 +42,6 @@ img {
       max-width: 25%;
 }
 
-.navbar-default {
-      background-color:Black;
-      border-color:$bgHighlight;
-}
-
 .well {
       background:Green;
 }
