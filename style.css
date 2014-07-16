@@ -18,11 +18,11 @@ h4 {
 
 p {
       color:Black
-      font:9;
+      font-size:9;
 }
 
 body {
-      background-color: Maroon;
+      background-color: Maroon; 
       padding-top:70px;
       position: relative;
 }
